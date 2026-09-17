@@ -1,0 +1,57 @@
+[{
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo08\\main.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo08",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo08\\main.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo08\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo07\\main.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo07",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo07\\main.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo06\\main.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo06",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo06\\main.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo06\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo05\\main.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo05",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo05\\main.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo05\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo03\\main.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo03",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo03\\main.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo03\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo01\\main.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo01",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo01\\main.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo12\\main.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo12",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo12\\main.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo12\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo11\\main.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo11",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo11\\main.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo11\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo04\\main.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo04",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo04\\main.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo04\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo0Pasoporreferencia\\main.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo0Pasoporreferencia",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo0Pasoporreferencia\\main.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo0Pasoporreferencia\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo09\\main.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo09",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo09\\main.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo09\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\EjemploPasodeargumentos\\main.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\EjemploPasodeargumentos",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\EjemploPasodeargumentos\\main.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\EjemploPasodeargumentos\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo02\\main.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo02",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo02\\main.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo02\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo10\\main.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo10",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo10\\main.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo10\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
