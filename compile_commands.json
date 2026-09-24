@@ -1,4 +1,36 @@
 [{
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Pilas\\NodoPila.hpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Pilas",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Pilas\\NodoPila.hpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Pilas\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Pilas\\main.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Pilas",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Pilas\\main.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Pilas\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Pilas\\NodoPila.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Pilas",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Pilas\\NodoPila.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Pilas\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Pilas\\Pila.hpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Pilas",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Pilas\\Pila.hpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Pilas\\Pila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Pilas\\Pila.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Pilas",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Pilas\\Pila.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Pilas\\Pila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo13\\main.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo13\\main.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo13\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo13\\Persona.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo13\\Persona.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo13\\Persona.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo13\\Persona.hpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo13",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo13\\Persona.hpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo13\\Persona.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo08\\main.cpp",
   "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo08",
   "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo08\\main.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo08\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
@@ -6,6 +38,26 @@
   "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo07\\main.cpp",
   "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo07",
   "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo07\\main.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Colas\\Cola.hpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Colas",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Colas\\Cola.hpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Colas\\Cola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Colas\\main.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Colas",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Colas\\main.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Colas\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Colas\\NodoCola.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Colas",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Colas\\NodoCola.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Colas\\NodoCola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Colas\\NodoCola.hpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Colas",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Colas\\NodoCola.hpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Colas\\NodoCola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Colas\\Cola.cpp",
+  "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Colas",
+  "command": "clang++ -c C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Colas\\Cola.cpp -o C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Colas\\Cola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
   "file": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo06\\main.cpp",
   "directory": "C:\\Users\\foxfi\\OneDrive\\Desktop\\EstructuraDatos\\Ejemplos\\Ejemplo06",
